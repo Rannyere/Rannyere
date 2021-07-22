@@ -1,6 +1,6 @@
 <p align="center">
  
-   ### Hi there, I´m Rannyere Almeida, a Computer Engineer from Brazil 👋
+   ### Hi there, I´m Rannyere Almeida 👋
   
   <a href="https://www.linkedin.com/in/rannyere-almeida/"><img src="https://img.shields.io/badge/-RannyereAlmeida-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="https://www.xing.com/profile/Rannyere_Almeida/cv"><img src="https://img.shields.io/badge/-RannyereAlmeida-03a57a?style=flat&labelColor=03a57a&logo=Xing" /></a>
