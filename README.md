@@ -13,10 +13,10 @@
 Computer Engineer with 4 years of experience in software development. Over the years I have been able to improve my technical skills in various technologies. Also have knowledge in Software Architecture, TDD, CI/CD.
 
 ## ⚡ Technologies & Skills
-- 💻 &nbsp; Backend development using **ASP.NET C#, EntityFramework, Identity, CQRS, RabbitMQ, Node.js**
-- 🌐 &nbsp; Frontend development using **Angular, JavaScript, CSS3, HTML5**
-- 🛢 &nbsp; Database using **OracleBD, Mysql, MongoDB**
-- 🔧 &nbsp; **Git, Docker, Linux, Windows, MacOS**  
+- 💻 &nbsp; Backend: **ASP.NET C#, EntityFramework, Identity, CQRS, RabbitMQ, Node.js**
+- 🌐 &nbsp; Frontend: **Angular, JavaScript, CSS3, HTML5**
+- 🛢 &nbsp; Database: **OracleBD, Mysql, MongoDB**
+- 🔧 &nbsp; Tools: **Git, Docker, Linux, Windows, MacOS**  
 
 ## Github Stats :octocat:
 <center>
